@@ -1,0 +1,11 @@
+{
+  "name": "desafio-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:byronkamal/desafio-nodejs.git",
+  "author": "byronkamal <byronkamal@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}

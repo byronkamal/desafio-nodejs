@@ -10,5 +10,3 @@ ADD . /app
 RUN yarn install
 
 EXPOSE 3333
-
-# CMD ["yarn", "start"]

@@ -13,16 +13,3 @@ services:
       - '5432:5432'
     volumes:
       - ./data_db:/var/lib/postgresql/data
-
-  # api_service:
-  #   container_name: api_container
-  #   image: api
-  #   depends_on:
-  #     - db_service
-  #   # command: bash -c "yarn run start:dev"
-  #   build: ./
-  #   volumes:
-  #     - .:/app
-  #     - /app/node_modules
-  #   ports:
-  #     - '3333:3333'

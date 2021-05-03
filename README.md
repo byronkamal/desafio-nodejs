@@ -1,10 +1,8 @@
 # Desafio-nodejs
 
-## Technical test - Coopersystem
-
 ## Project 💻
 
-Rest API developed using **Typescript**.
+Rest API developed using **Typescript** and **Nest.js**.
 
 ## Techs :rocket:
 
